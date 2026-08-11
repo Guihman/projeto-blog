@@ -13,9 +13,9 @@ export default function Header() {
       <nav className={styles.nav}>
         <ul>
           <li><Link href="/">Início</Link></li>
-          <li><Link href="/categoria/pop-culture">Pop Culture</Link></li>
-          <li><Link href="/categoria/lifestyle">Lifestyle</Link></li>
-          <li><Link href="/categoria/entretenimento">Entretenimento</Link></li>
+          <li><Link href="/">Pop Culture</Link></li>
+          <li><Link href="/">Lifestyle</Link></li>
+          <li><Link href="/">Entretenimento</Link></li>
         </ul>
       </nav>
     </header>
